@@ -33,3 +33,20 @@
       return arr1.find((item, index) => item != arr2[index]);
     }
   ```
+
+## Experience
+  **2010 - 2023, Softservice, department chief (Belarus, Grodno)**
+  * conducting a business analysis of the payroll system and HR administration of organizations
+  * drawing up a plan for the development of a software product
+  * development of individual tasks
+  * assessment of tasks
+  * implementation of a software product
+  * studying of the current legislation on payroll system for further software development
+  * software support
+  * training new employees
+
+  **2006 - 2010, Softservice, junior/senior developer (Belarus, Grodno)**
+  * studying of the current legislation on payroll system for further software development
+  * development of individual tasks
+  * software support
+  * implementation of a software product
