@@ -50,3 +50,8 @@
   * development of individual tasks
   * software support
   * implementation of a software product
+
+  ## Certificates
+  * 23.04.2010 - 1C:Professional (Payroll and HR 8 for Belarus)
+  * 19.08.2011 - 1C:Specialist (Payroll and HR 8)
+  * 24.12.2018 - 1C:Specialist - consultant (Payroll and HR 8)
