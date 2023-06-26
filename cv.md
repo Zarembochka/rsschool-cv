@@ -14,3 +14,10 @@
   Now I decided to try something new. Why did I choose front-end development? It is important for me to see the result of my work. 
   
   I believe that my strengths: ability to work in a team, responsibility, diligence, stress resistance, — will allow me to succeed in the new path of my life.  
+
+## Skills:
+  * HTML5, CSS3
+  * JavaScript
+  * Git, GitHub
+  * Figma, Photoshop
+  * 1C  
