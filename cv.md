@@ -55,3 +55,11 @@
   * 23.04.2010 - 1C:Professional (Payroll and HR 8 for Belarus)
   * 19.08.2011 - 1C:Specialist (Payroll and HR 8)
   * 24.12.2018 - 1C:Specialist - consultant (Payroll and HR 8)
+
+  ## Education
+  * **Yanka Kupala State University of Grodno**
+    + Applied Mathematics
+  * **Institute for Advanced Studies and Retraining in the Field of Informatization and Management Technologies Belarusian State University**
+    + Accounting and control in industry
+  * **RS Schools Course**
+    + JavaScript/Front-end. Stage 0 (in progress)  
