@@ -1,0 +1,189 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+main {
+    margin: 0 auto;
+    max-width: 800px;
+    display: flex;
+    flex-direction: row;
+
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+
+    border: 2px solid #bab5b1; 
+    border-bottom: none;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+}
+
+/* =====Personal info===== */
+.personal_info {
+    width: 38%;
+    background-color: #f5ece4;
+    border-top-left-radius: 12px; 
+}
+
+.header__photo {
+    display: flex;
+    margin: 50px auto;
+    border-radius: 93%;
+}
+
+.contacts {
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.contacts__list {
+    padding-left: 0;
+}
+
+.contacts__item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contacts__icon {
+    margin: 0 10px;
+    width: 32px;
+    height: 32px;
+}
+
+.contacts__link {
+    color: #272524;
+    margin: 0;
+    text-decoration: none;
+}
+
+.contacts__item:hover .contacts__icon {
+    scale: 1.2;
+    transition: 0.1s linear;
+}
+
+.contacts__link:hover {
+    text-decoration: underline;
+    color: #000000;
+    transition: 0.1s all linear; 
+}
+
+.skills {
+    padding: 0 10px 0 30px;
+}
+
+.subtitle {
+    text-transform: uppercase;
+    margin: 0;
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px;
+    color: #272524;
+    padding-bottom: 7px;
+    border-bottom: 2px solid #bab5b1;
+}
+
+.list {
+    padding-left: 25px;
+    margin-bottom: 30px;
+}
+
+.list__item {
+    margin-bottom: 7px;
+}
+
+/* ======Experience and Education===== */
+.experience_and_education {
+    width: 62%;
+    background-color: #fefefe;
+    padding: 0 10px 0 20px;
+    border-top-right-radius: 12px;
+    margin-bottom: 10px;
+}
+
+.profile {
+    margin: 50px 0 30px;
+    font-family: 'Barlow', sans-serif;
+    text-transform: uppercase;
+    color: #272524;
+}
+
+.profile__title {
+    margin: 0 0 10px;
+    font-size: 50px;
+}
+
+.profile__subtitle {
+    margin: 0;
+    font-size: 25px;
+}
+
+.experience__title {
+    font-family: 'Barlow', sans-serif;  
+    color: #272524;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.experience__subtitle {
+    font-family: 'Barlow', sans-serif;  
+    color: #272524;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+.experience__period {
+    font-family: 'Barlow', sans-serif;  
+    color: #272524;
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0;
+}
+
+/* =====Footer===== */
+
+.footer__inner {
+    width: 100%;
+    background-color: #927f70;
+    border: 2px solid #bab5b1; 
+    border-top: none;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+}
+
+.footer__list {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0 15px;
+}
+
+.footer__item {
+    list-style-type: none;
+}
+
+.footer__icon {
+    margin: 0;
+}
+
+.footer__link:hover .footer__icon {
+    scale: 1.05;
+    opacity: 0.75;
+    transition: 0.1s all linear;
+}
