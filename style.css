@@ -10,12 +10,12 @@ body {
 
 .container {
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 1000px;
 }
 
 main {
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 1000px;
     display: flex;
     flex-direction: row;
 
@@ -30,7 +30,7 @@ main {
 
 /* =====Personal info===== */
 .personal_info {
-    width: 38%;
+    width: 30%;
     background-color: #f5ece4;
     border-top-left-radius: 12px; 
 }
@@ -80,6 +80,10 @@ main {
     transition: 0.1s all linear; 
 }
 
+.projects {
+    padding: 0 10px 0 30px;
+}
+
 .skills {
     padding: 0 10px 0 30px;
 }
@@ -105,7 +109,7 @@ main {
 
 /* ======Experience and Education===== */
 .experience_and_education {
-    width: 62%;
+    width: 70%;
     background-color: #fefefe;
     padding: 0 10px 0 20px;
     border-top-right-radius: 12px;
@@ -127,6 +131,16 @@ main {
 .profile__subtitle {
     margin: 0;
     font-size: 25px;
+}
+
+.about {
+    margin-bottom: 20px;
+}
+
+.about__text {
+    text-align: justify;
+    margin: 10px 0;
+    line-height: 1.5;
 }
 
 .experience__title {
@@ -151,6 +165,18 @@ main {
     font-weight: 500;
     font-size: 14px;
     margin: 0;
+}
+
+.certificates {
+    margin-bottom: 20px;
+}
+
+.code__example {
+    margin-bottom: 20px;
+}
+
+.code__example__text {
+
 }
 
 /* =====Footer===== */
