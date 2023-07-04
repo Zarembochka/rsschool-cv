@@ -10,17 +10,17 @@
 
 ## About Me
   I have worked as a department chief for over 5 years in a company developing accounting software. We are engaged in the development of software for payroll and HR administration both for individual projects (taking into account the specifics of customers) and independent software that could be used by any organization. My team has more than 15 successful implemented projects.
-  
-  Now I decided to try something new. Why did I choose front-end development? It is important for me to see the result of my work. 
-  
-  I believe that my strengths: ability to work in a team, responsibility, diligence, stress resistance, — will allow me to succeed in the new path of my life.  
+
+  Now I decided to try something new. Why did I choose front-end development? It is important for me to see the result of my work.
+
+  I believe that my strengths: ability to work in a team, responsibility, diligence, stress resistance, — will allow me to succeed in the new path of my life.
 
 ## Skills:
   * HTML5, CSS3
   * JavaScript
   * Git, GitHub
   * Figma, Photoshop
-  * 1C  
+  * 1C
 
 ## Code Example
   KATA from CODEWARS: *Given two integer arrays where the second array is a shuffled duplicate of the first array with one element missing, find the missing element.*
@@ -62,9 +62,9 @@
   * **Institute for Advanced Studies and Retraining in the Field of Informatization and Management Technologies Belarusian State University**
     + Accounting and control in industry
   * **RS Schools Course**
-    + JavaScript/Front-end. Stage 0 (in progress)  
+    + JavaScript/Front-end. Stage 0 (in progress)
 
 ## Languages
   * Russian - native
   * English - A2
-  * Polish - B1-B2 (I live in Poland and practice everyday with native speakers)   
+  * Polish - B1-B2 (I live in Poland and practice everyday with native speakers)
