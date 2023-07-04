@@ -37,7 +37,7 @@ main {
     color: #272524;
     position: absolute;
     left: 0;
-    z-index: 10; 
+    z-index: 10;
     border: 2px solid #bab5b1;
     border-bottom: none;
     border-top-left-radius: 15px;
@@ -49,9 +49,9 @@ main {
     flex-direction: row;
     position: relative;
 
-    border: 2px solid #bab5b1; 
+    border: 2px solid #bab5b1;
     border-bottom: none;
-    border-top-left-radius: 15px; 
+    border-top-left-radius: 15px;
     border-top-right-radius: 15px
 }
 
@@ -124,7 +124,7 @@ main {
 .contacts__link:hover {
     text-decoration: underline;
     color: #000000;
-    transition: 0.1s all linear; 
+    transition: 0.1s all linear;
 }
 
 .projects {
@@ -194,7 +194,7 @@ main {
 }
 
 .experience__title {
-    font-family: 'Barlow', sans-serif;  
+    font-family: 'Barlow', sans-serif;
     color: #272524;
     font-weight: bold;
     font-size: 18px;
@@ -202,7 +202,7 @@ main {
 }
 
 .experience__subtitle {
-    font-family: 'Barlow', sans-serif;  
+    font-family: 'Barlow', sans-serif;
     color: #272524;
     font-weight: bold;
     font-size: 16px;
@@ -210,7 +210,7 @@ main {
 }
 
 .experience__period {
-    font-family: 'Barlow', sans-serif;  
+    font-family: 'Barlow', sans-serif;
     color: #272524;
     font-weight: 500;
     font-size: 14px;
@@ -230,7 +230,7 @@ main {
 .footer__inner {
     width: 100%;
     background-color: #e7c9bb;
-    border: 2px solid #bab5b1; 
+    border: 2px solid #bab5b1;
     border-top: none;
     border-bottom-left-radius: 12px;
     border-bottom-right-radius: 12px;
