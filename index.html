@@ -12,6 +12,12 @@
 </head>
 <body>
     <main>
+        <div class="white__top">
+            <div class="container">
+
+            </div>
+        </div>
+
         <header class="header">
             <div class="container">
                 <h1 class="profile__title">
@@ -22,12 +28,36 @@
                 </h2>
                 <nav class="header__nav">
                     <ul class="header__menu">
-                        <li class="header__menu__item">Experience</li>
-                        <li class="header__menu__item">Education</li>
-                        <li class="header__menu__item">Contacts</li>
-                        <li class="header__menu__item">Skills</li>
-                        <li class="header__menu__item">Projects</li>
-                        <li class="header__menu__item">Languages</li>
+                        <li class="header__menu__item">
+                            <a class="header__menu__link" href="#experience">
+                                Experience
+                            </a>
+                        </li>
+                        <li class="header__menu__item">
+                            <a class="header__menu__link" href="#education">
+                                Education
+                            </a>
+                        </li>
+                        <li class="header__menu__item">
+                            <a class="header__menu__link" href="#contacts">
+                                Contacts
+                            </a>
+                        </li>
+                        <li class="header__menu__item">
+                            <a class="header__menu__link" href="#skills">
+                                Skills
+                            </a>
+                        </li>
+                        <li class="header__menu__item">
+                            <a class="header__menu__link" href="#projects">
+                                Projects
+                            </a>
+                        </li>
+                        <li class="header__menu__item">
+                            <a class="header__menu__link" href="#languages skills">
+                                Languages
+                            </a>
+                        </li>
                     </ul>
                 </nav>
             </div>
@@ -38,7 +68,7 @@
                     <img src="img/Photo.jpg" alt="Photo Luba Hadunova" class="header__photo">
                 </header>
 
-                <div class="contacts">
+                <div class="contacts" id="contacts">
                     <ul class="contacts__list">
                         <li class="contacts__item">
                             <img src="img/icons/phone.png" alt="phone icon" class="contacts__icon">
@@ -59,7 +89,7 @@
                     </ul>
                 </div>
 
-                <div class="projects">
+                <div class="projects" id="projects">
                     <h3 class="subtitle">
                         Projects
                     </h3>
@@ -68,12 +98,12 @@
                             <a class="contacts__link" href="https://zarembochka.github.io/rsschool-cv/" target="_blank">CV</a>
                         </li>
                         <li class="list__item">
-                            <a class="contacts__link" href="#!" target="_blank">Travel</a>
+                            <a class="contacts__link" href="https://zarembochka.github.io/my-travel/" target="_blank">Travel</a>
                         </li>
                     </ul>
                 </div>
 
-                <div class="skills">
+                <div class="skills" id="skills">
                     <h3 class="subtitle">
                         Skills
                     </h3>
@@ -88,7 +118,7 @@
                     </ul>
                 </div>
 
-                <div class="languages skills">
+                <div class="languages skills" id="languages skills">
                     <h3 class="subtitle">
                         Languages
                     </h3>
@@ -126,7 +156,7 @@
                         I believe that my strengths: ability to work in a team, responsibility, diligence, stress resistance, — will allow me to succeed in the new path of my life.
                     </p>
                 </div>
-                <div class="experience">
+                <div class="experience" id="experience">
                     <h3 class="subtitle">
                         Experience
                     </h3>
@@ -190,17 +220,17 @@
                     </p>
                     <pre class="code__example__text">
                         <code>
-                        function findMissing(arr1, arr2) {
-                            arr1.sort();
-                            arr2.sort();
+            function findMissing(arr1, arr2) {
+                arr1.sort();
+                arr2.sort();
 
-                            return arr1.find((item, index) =&gt; item != arr2[index]);
-                        }
+                return arr1.find((item, index) =&gt; item != arr2[index]);
+            }
                         </code>
                     </pre>
                 </div>
 
-                <div class="education">
+                <div class="education" id="education">
                     <h3 class="subtitle">
                         Education
                     </h3>
