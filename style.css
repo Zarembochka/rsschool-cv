@@ -149,11 +149,7 @@ main {
     transition: 0.1s all linear;
 }
 
-.projects {
-    padding: 0 10px 0 30px;
-}
-
-.skills {
+.info__item {
     padding: 0 10px 0 30px;
 }
 
